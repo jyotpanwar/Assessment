@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{70384434-0A55-4AE9-AEBA-BAB9EBFB375D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankingApp_ARO/ViewModels/SSNValidationVM.cs">
+    <Files>
+      <File FileName="BankingApp_ARO.Tests/ContactDetailsTests/TestContactDetails.cs" Line="27" Column="1" />
+      <File FileName="BankingApp_ARO/Models/Contact.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/6.10.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="BankingApp_ARO/Views/ContactDetail.xaml.cs" />
+      <File FileName="BankingApp_ARO.Tests/ContactListTests/TestContactList.cs" />
+      <File FileName="BankingApp_ARO.Tests/ContactDetailsTests/TestSSNValidation.cs" />
+      <File FileName="BankingApp_ARO/ViewModels/ContactDetailViewModel.cs" />
+      <File FileName="BankingApp_ARO/ViewModels/SSNValidationVM.cs" Line="43" Column="14" />
+      <File FileName="BankingApp_ARO/Views/SSNValidation.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankingApp_ARO" expanded="True">
+            <Node name="BankingApp_ARO" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="SSNValidationVM.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BankingApp__ARO.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BankingApp__ARO.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

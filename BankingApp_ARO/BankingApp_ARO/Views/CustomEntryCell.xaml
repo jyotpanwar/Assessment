@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms"
+          xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+          x:Class="BankingApp_ARO.Views.CustomEntryCell">
+    <ViewCell.View>
+        <StackLayout Orientation="Horizontal" Padding="20,20,20,20">
+            <Label FontSize="Title" Text="{Binding LabelText}" VerticalOptions="Center" LineBreakMode="WordWrap"/>
+            <Entry FontSize="Title" Text="{Binding EntryText}" Placeholder="{Binding Placeholder}"
+                   HorizontalOptions="EndAndExpand" WidthRequest="200" Completed="Entry_Completed"/>
+        </StackLayout>
+    </ViewCell.View>
+</ViewCell>

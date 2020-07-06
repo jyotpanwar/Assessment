@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+			 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 mc:Ignorable="d"
+			 x:Class="BankingApp_ARO.Views.ContactsList"
+			 Title="All Contacts">
+	<ContentPage.ToolbarItems>
+		<ToolbarItem IconImageSource="plus.png" Clicked="AddNewContact"></ToolbarItem>
+	</ContentPage.ToolbarItems>
+    <StackLayout x:Name="stackLayout">
+		<ListView x:Name="contantsListView" HasUnevenRows="True"
+			ItemSelected="ItemSelected" ItemTapped="ItemTapped" IsVisible="false">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<ViewCell>
+						<StackLayout Padding="20,20,20,20">
+							<Label Text="{Binding Name}" FontSize="Title"></Label>
+							<Label Text="{Binding contactDetail}" FontSize="Subtitle"></Label>
+						</StackLayout>
+					</ViewCell>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+	</StackLayout>
+</ContentPage>

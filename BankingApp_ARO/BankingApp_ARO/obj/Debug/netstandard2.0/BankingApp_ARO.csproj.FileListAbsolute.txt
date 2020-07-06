@@ -1,0 +1,17 @@
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/bin/Debug/netstandard2.0/BankingApp_ARO.deps.json
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/bin/Debug/netstandard2.0/BankingApp_ARO.dll
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/bin/Debug/netstandard2.0/ref/BankingApp_ARO.dll
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/bin/Debug/netstandard2.0/BankingApp_ARO.pdb
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/BankingApp_ARO.csprojAssemblyReference.cache
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/Views/ContactDetail.xaml.g.cs
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/Views/ContactsList.xaml.g.cs
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/Views/CustomEntryCell.xaml.g.cs
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/BankingApp_ARO.AssemblyInfoInputs.cache
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/BankingApp_ARO.AssemblyInfo.cs
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/BankingApp_ARO.csproj.CoreCompileInputs.cache
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/BankingApp_ARO.dll
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/ref/BankingApp_ARO.dll
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/BankingApp_ARO.pdb
+/Users/Apple/Projects/BankingApp_ARO/BankingApp_ARO/obj/Debug/netstandard2.0/Views/SSNValidation.xaml.g.cs

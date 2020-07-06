@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BankingApp_ARO.Views.SSNValidation" Title="Validation">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start" Spacing="20" Padding="20, 20, 20, 20">
+            <Label Text="Enter Social Security Number to validate"
+                   FontSize="Title"
+                   LineBreakMode="WordWrap"></Label>
+            <Entry FontSize="Title" Placeholder="Enter Social Security Number" x:Name="TextFiled"/>
+            <Button Text="Validate"
+                HeightRequest="80"
+                BackgroundColor="#383e56"
+                TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="10"
+                    Clicked="Entry_Completed"
+                    Padding="20, 20, 20, 20"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
